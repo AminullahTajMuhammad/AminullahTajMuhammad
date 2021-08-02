@@ -14,9 +14,9 @@
     📝 Learning <a href="https://developer.android.com/jetpack/compose?gclid=CjwKCAjwr56IBhAvEiwA1fuqGl2BUI6woPv9DDeSP3QLTRqKO5YlFC-qulF81Vy8J4857X5vIZD9YRoCh78QAvD_BwE&gclsrc=aw.ds">JetPack Compose,</a> <a href="https://ktor.io/">Ktor</a> and new modern tools</br>
     🔍 Exploring Web Technologies Like ReactJS🔥 and NodeJs💥 
   </samp>
-</p>
+</p><br>
 
-Connect with me on my Socials:
+<h3><samp> Connect with me on </samp></h3>
 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCmluJHtKa8ocjXnlxWFUE-g)
 [![Website](https://img.shields.io/badge/Website-100000?style=for-the-badge&logo=computer&logoColor=white)](https://aminullahtaj.com/)
