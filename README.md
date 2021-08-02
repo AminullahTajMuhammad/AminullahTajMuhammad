@@ -1,5 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://github.com/AminullahTajMuhammad/AminullahTajMuhammad/blob/main/Amin.jpg" height="300"/>
 
+<h2 align="center"><samp> Hi there 👋, I am Aminullh Taj Muhammad (Amin) </samp></h2>
+<h6 align="center"><samp> Passionate Mobile Application Developer for Android:boom: and Flutter:blue_heart: </samp></h6>
+<br>
+
+<p>
+  <samp>
+    :computer: Mobile Application Developer at [Rubikkube](https://rubikkube.com/)
+  </samp>
+</p>
 <!--
 **AminullahTajMuhammad/AminullahTajMuhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
