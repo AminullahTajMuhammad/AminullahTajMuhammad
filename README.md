@@ -6,7 +6,7 @@
 
 <p>
   <samp>
-    💻 Sr. Mobile Application Developer at <a href="https://www.evolutionwing.com/">EvolutionWing</a><br>
+    💻 Flutter Developer at <a href="https://appedology.pk/">Appedology.Inc</a><br>
     🎥 Youtuber at <a href="https://www.youtube.com/c/technofolk">TechnoFolk</a><br>
     ✍️ Technical Writer at <a href="https://medium.com/@aminullahtaj">Medium</a><br>
     📖 Open Source Contributor<br>
